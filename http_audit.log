@@ -1,0 +1,9 @@
+2024-08-29 03:40:05,262 Client with IP Address: 127.0.0.1 entered
+Username: admin, Password: deboodah
+2024-08-29 03:40:05,263 Decoy credentials used by IP: 127.0.0.1 with Username: admin_fake, Password: fakepassword
+2024-08-29 03:40:26,884 Client with IP Address: 127.0.0.1 entered
+Username: admin, Password: deeboodah
+2024-08-29 03:40:26,884 Decoy credentials used by IP: 127.0.0.1 with Username: admin_fake, Password: fakepassword
+2024-08-29 03:49:54,243 Client with IP Address: 127.0.0.1 entered
+Username: admin, Password: deeboodah
+2024-08-29 03:49:54,246 Decoy credentials used by IP: 127.0.0.1 with Username: admin_fake, Password: fakepassword
